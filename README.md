@@ -4,9 +4,6 @@
 
 <br>
 
-
-<h1 align="center">ALMYDEV</h1>
-
 <h3 align="center">
 Transformamos procesos fragmentados en ecosistemas inteligentes
 </h3>
