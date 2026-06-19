@@ -1,118 +1,187 @@
-# ALMYDEV
+<p align="center">
+  <img src="./assets/banner.png" alt="ALMYDEV Banner">
+</p>
 
-### Información que fluye, empresas que crecen.
+<br>
 
-Transformamos procesos empresariales mediante software, automatización e integración tecnológica. Ayudamos a las organizaciones a convertir información dispersa en ecosistemas inteligentes que impulsan la productividad, la trazabilidad y la toma de decisiones.
+<p align="center">
+  <img src="./assets/Almydev.png" alt="ALMYDEV Logo" width="320">
+</p>
 
----
+<h1 align="center">ALMYDEV</h1>
 
-## 🚀 ¿Quiénes somos?
+<h3 align="center">
+Transformamos procesos fragmentados en ecosistemas inteligentes
+</h3>
 
-ALMYDEV nace con el propósito de resolver uno de los mayores desafíos de las organizaciones modernas: la fragmentación de la información.
+<p align="center">
+Información que fluye • Procesos conectados • Empresas que crecen
+</p>
 
-Muchas empresas dependen de múltiples archivos, procesos manuales y sistemas desconectados que generan retrasos, errores y pérdida de oportunidades.
+<br>
 
-Nuestro enfoque consiste en diseñar e implementar soluciones tecnológicas que permitan:
-
-* Centralizar la información.
-* Automatizar procesos repetitivos.
-* Integrar áreas y sistemas.
-* Mejorar la trazabilidad de los datos.
-* Facilitar la toma de decisiones.
-
----
-
-## 🎯 Nuestra misión
-
-Transformar procesos empresariales mediante soluciones tecnológicas inteligentes que optimicen el flujo de información, aumenten la eficiencia operativa y generen valor sostenible para las organizaciones.
-
----
-
-## 🌎 Nuestra visión
-
-Ser una empresa referente en transformación digital y desarrollo de soluciones empresariales, reconocida por conectar personas, procesos y tecnología para impulsar el crecimiento de las organizaciones.
+<p align="center">
+  <a href="#cuando-la-informacion-deja-de-fluir">Problema</a> •
+  <a href="#nuestra-respuesta">Solución</a> •
+  <a href="#capacidades-estrategicas">Capacidades</a> •
+  <a href="#areas-que-transformamos">Sectores</a> •
+  <a href="#ecosistema-tecnologico">Tecnologías</a> •
+  <a href="#nuestra-filosofia">Filosofía</a>
+</p>
 
 ---
 
-## 💡 Servicios
+# Cuando la información deja de fluir
 
-### Desarrollo de Software
+Las organizaciones modernas generan grandes cantidades de información, pero gran parte de ella permanece distribuida entre hojas de cálculo, correos electrónicos, sistemas desconectados y procesos manuales.
 
-Diseño y construcción de aplicaciones empresariales personalizadas.
+Esta fragmentación genera retrasos operativos, reprocesos, errores de gestión y limita la capacidad de tomar decisiones basadas en datos confiables.
 
-### Automatización de Procesos
-
-Eliminación de tareas manuales mediante flujos automatizados.
-
-### Integración de Sistemas
-
-Conectamos herramientas, plataformas y fuentes de información para crear ecosistemas digitales unificados.
-
-### Analítica y Visualización de Datos
-
-Transformamos información en indicadores estratégicos para la toma de decisiones.
-
-### Consultoría Tecnológica
-
-Diagnóstico, diseño y optimización de procesos organizacionales.
+Cuando la información no fluye correctamente, el crecimiento se vuelve más complejo.
 
 ---
 
-## 🛠️ Tecnologías
+# Nuestra respuesta
 
-### Backend
+ALMYDEV diseña soluciones tecnológicas orientadas a conectar procesos, integrar información y automatizar operaciones.
 
-* Java
-* Spring Boot
-* Python
-
-### Frontend
-
-* React
-* JavaScript
-* TypeScript
-
-### Bases de Datos
-
-* PostgreSQL
-* MySQL
-
-### Infraestructura
-
-* Docker
-* GitHub
-* GitHub Actions
-
-### Productividad
-
-* Google Workspace
-* APIs e Integraciones
-
----
-
-## 📈 Nuestro enfoque
-
-En ALMYDEV creemos que la tecnología debe simplificar, conectar y potenciar.
+Nuestro objetivo es construir ecosistemas digitales donde los datos fluyan con claridad, los procesos sean trazables y las organizaciones puedan enfocarse en crecer.
 
 No desarrollamos software por desarrollar software.
 
-Diseñamos soluciones orientadas a resolver problemas reales de negocio, optimizando el flujo de información y eliminando los cuellos de botella que limitan el crecimiento organizacional.
+Diseñamos soluciones que generan eficiencia, control y capacidad de evolución.
 
 ---
 
-## 🔭 Próximos proyectos
+# Lo que buscamos transformar
 
-* Sistemas de gestión empresarial.
-* Automatización de procesos administrativos.
-* Plataformas de selección de personal.
-* Dashboards e inteligencia de negocios.
-* Integraciones empresariales.
-* Soluciones basadas en inteligencia artificial.
+| Situación Actual      | Resultado Esperado           |
+| --------------------- | ---------------------------- |
+| Información dispersa  | Información centralizada     |
+| Procesos manuales     | Procesos automatizados       |
+| Sistemas aislados     | Ecosistemas conectados       |
+| Reportes tardíos      | Información en tiempo real   |
+| Decisiones reactivas  | Decisiones basadas en datos  |
+| Dependencia operativa | Escalabilidad organizacional |
 
 ---
 
-## 🤝 Construyendo el futuro digital
+# Capacidades Estratégicas
 
-ALMYDEV es más que desarrollo de software.
+### Ingeniería de Software
 
-Es una visión orientada a conectar procesos, personas y tecnología para transformar la forma en que las organizaciones operan y crecen.
+Desarrollo de plataformas empresariales diseñadas para acompañar el crecimiento de las organizaciones.
+
+### Automatización Inteligente
+
+Optimización de procesos mediante flujos digitales eficientes y reducción de tareas manuales.
+
+### Integración Empresarial
+
+Conexión de sistemas, aplicaciones y fuentes de información para eliminar silos operativos.
+
+### Inteligencia Operativa
+
+Transformación de datos en información estratégica para apoyar la toma de decisiones.
+
+### Consultoría Tecnológica
+
+Diagnóstico, rediseño y evolución de procesos organizacionales.
+
+---
+
+# Cómo trabajamos
+
+### 01 · Diagnóstico
+
+Analizamos procesos, flujos de información y necesidades del negocio.
+
+### 02 · Diseño
+
+Definimos la arquitectura funcional y tecnológica de la solución.
+
+### 03 · Implementación
+
+Construimos e integramos las herramientas necesarias para alcanzar los objetivos.
+
+### 04 · Evolución
+
+Acompañamos el crecimiento de la solución y su mejora continua.
+
+---
+
+# Áreas que transformamos
+
+* Recursos Humanos
+* Operaciones
+* Inventarios
+* Compras
+* Ventas
+* Servicio al Cliente
+* Gestión Documental
+* Finanzas
+* Planeación Estratégica
+
+---
+
+# Ecosistema Tecnológico
+
+<p align="center">
+
+Java • Spring Boot • React • Python
+
+PostgreSQL • Docker • APIs • GitHub Actions
+
+Google Workspace • Integraciones • Automatización
+
+</p>
+
+---
+
+# Nuestra Filosofía
+
+La tecnología no debe añadir complejidad.
+
+Debe eliminarla.
+
+Creemos que los procesos eficientes nacen cuando la información fluye con claridad entre las personas, los sistemas y las decisiones.
+
+Por ello diseñamos soluciones que simplifican operaciones, integran información y potencian el crecimiento organizacional.
+
+<br>
+
+<p align="center">
+<strong>PRECISIÓN</strong> •
+<strong>INTEGRACIÓN</strong> •
+<strong>TRAZABILIDAD</strong> •
+<strong>ESCALABILIDAD</strong> •
+<strong>INNOVACIÓN</strong>
+</p>
+
+---
+
+# Evolución
+
+### Presente
+
+* Desarrollo de Software Empresarial
+* Automatización de Procesos
+* Integración de Información
+* Consultoría Tecnológica
+
+### Futuro
+
+* Plataformas SaaS
+* Inteligencia Artificial Aplicada
+* Analítica Empresarial Avanzada
+* Ecosistema de Productos ALMYDEV
+
+---
+
+# Conectemos
+
+ALMYDEV
+
+Información que fluye. Empresas que crecen.
+
+GitHub: https://github.com/Almydev
