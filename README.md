@@ -4,9 +4,6 @@
 
 <br>
 
-<p align="center">
-  <img src="./assets/Almydev.png" alt="ALMYDEV Logo" width="320">
-</p>
 
 <h1 align="center">ALMYDEV</h1>
 
